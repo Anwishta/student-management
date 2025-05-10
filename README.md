@@ -1,3 +1,5 @@
+# student-management
+A platform for managing student data, featuring Firebase authentication and mock API integration
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
